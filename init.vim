@@ -1,7 +1,7 @@
 call plug#begin(stdpath('config') . '/plugged')
 
 
-" Collection of common configurations for the Nvim LSP client
+"aa Collection of common configurations for the Nvim LSP client
 Plug 'neovim/nvim-lspconfig'
 
 " Completion framework
